@@ -1,0 +1,13 @@
+<!DOCTYPE HTML>
+<html lang="pl">
+<head>
+	<meta charset="utf=8" />
+		<title>Praktyki</title>
+		<meta name"description" contect="ADAwards" />
+		<meta name="keywords" contect="praktki"
+		<meta http-equiv="X-UA-Compatible" contect="IE=edge,chrome=1" />
+</head>
+
+<body>
+	<h1>Praktyki</h1>
+	Programowanie w htmln 
