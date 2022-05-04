@@ -10,4 +10,6 @@
 
 <body>
 	<h1>Praktyki</h1>
-	Programowanie w htmln 
+	Programowanie w html
+</body>
+</html>
